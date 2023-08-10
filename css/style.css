@@ -381,15 +381,18 @@ p {
 }
 
 .one{
-color:#808080;
+  color:#808080;
+  padding:20px;
 }
 
 .two{
-color:#808080;
+  color:#808080;
+  padding:20px;
 }
 
 .three{
   color:#808080;
+  padding:20px;
 }
 
 h4{
