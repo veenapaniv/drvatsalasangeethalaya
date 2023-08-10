@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="Carnatic music and vocal music lessons.">
+  <meta name="keywords" content="Carnatic music, Traditional music, Vocal music classes">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" media="screen and (max-width: 768px)" href="css/mobile.css">
+  <title>Dr. Vatsala's Sangeetalaya</title>
+</head>
+<body>
+  <header>
+      <nav id="navbar" class=" navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+          <img src="./img/logo.jpg" width="30" height="30" class="d-inline-block navbar-brand align-top" alt="">
+              <span class="logo-title">Dr. Vatsala’s Sangeetalaya</span>
+        </a>
+        <ul>
+          <li><a class="current" href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="events.html">Events</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+<! -- don't change ----!>
+    <div id="showcase">
+      <div class="container">
+        <div class="showcase-content">
+          <h1><span class="text-primary-white">Home for beginning the traditional music journey</span> </h1>
+          <p class="lead">Music is Sri Saraswathi Herself. Sangeeta is the god and God's voice. It is a wonderful hobby to enjoy life. And, if so inclined, Sangeeta can be your profession also.</p>
+          <a class="btn" href="about.html">About Us</a>
+        </div>
+      </div>
+    </div>
+  </header>
+<h1>Academic courses</h1>
+
+<div class="one">
+  <p>
+  1. Junior, senior Carnatic exams conducted by KSEEB and different states like Andhra Pradesh, Tamil nadu, Kerala.
+  </p>
+</div>
+
+<div class="two">
+  <p>
+  2. Light music and film singing.
+  </p>
+</div>
+
+<div class = "three">
+  <p>
+  3. Music Theory
+  </p>
+</div>
+ out.html" class="btn btn-light">Read More</a>
+    </div>
+
+  <footer id="main-footer">
+    <p> Dr. Vatsala’s Sangeetalaya &copy; 2023, All Rights Reserved</p>
+  </footer>
+</body>
+</html>
