@@ -380,24 +380,21 @@ p {
   display: table;
 }
 
+
 .one{
-  color:#f7c08a;
+  background-color:#f7c08a;
   padding:20px;
-  margin: 30px;
+  margin: 50px;
 }
 
 .two{
-  color:#f7c08a;
+  background-color:#f7c08a;
   padding:20px;
-  margin: 30px;
+  margin: 50px;
 }
 
 .three{
-  color:#f7c08a;
+  background-color:#f7c08a;
   padding:20px;
-  margin: 30px;
-}
-
-h4{
-margin:50px;
+  margin: 50px;
 }
