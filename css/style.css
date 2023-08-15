@@ -390,11 +390,11 @@ p {
 .two{
   background-color:#f7c08a;
   padding:20px;
-  position: absolute;
+  margin: 50px;
 }
 
 .three{
   background-color:#f7c08a;
   padding:20px;
-  margin: auto;
+  margin: 50px;
 }
