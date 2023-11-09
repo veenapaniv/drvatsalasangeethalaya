@@ -295,6 +295,13 @@ p {
   padding: 20px;
 }
 
+.fix-footer {
+      position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
 /* Events page CSS */
 
 .events-date {
@@ -380,21 +387,14 @@ p {
   display: table;
 }
 
-
-.one{
-  background-color:#f7c08a;
+.table-div {
+    background-color:#f7c08a;
   padding:20px;
-  margin: 50px;
+  margin-left: 20px;
+    margin-bottom: 20px;
 }
 
-.two{
-  background-color:#f7c08a;
-  padding:20px;
-  margin: 50px;
-}
-
-.three{
-  background-color:#f7c08a;
-  padding:20px;
-  margin: 50px;
+.table {
+     margin: auto;
+   width: 50% !important; 
 }
