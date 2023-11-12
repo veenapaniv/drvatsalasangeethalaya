@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">    
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="https://cpwebassets.codepen.io/assets/common/stopExecutionOnTimeout-2c7831bb44f98c1391d6a4ffda0e1fd302503391ca806e7fcc7b9b87197aec26.js"></script>
 
@@ -10,10 +13,26 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" media="screen and (max-width: 768px)" href="css/mobile.css">
     <title>Dr. Vatsala's sangeetalaya - "We listen to your heart through music"</title>
 </head>
 
 <body>
+    <header>
+        <nav id="navbar" class=" navbar-light bg-light-vatsala">
+            <a class="navbar-brand-vatsala" href="#">
+                <img src="./img/logo.jpg" width="30" height="30" class="d-inline-block navbar-brand-vatsala align-top" alt="">
+                <span class="logo-title-2">Dr. Vatsala’s Sangeetalaya</span>
+            </a>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a class="current" href="events.html">Events</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+<!--
     <header>
         <nav id="navbar" class="navbar-light margin-15px-bottom">
             <a class="navbar-brand-events" href="#">
@@ -28,6 +47,7 @@
             </ul>
         </nav>
     </header>
+-->
     <div class="container">
         <!-- start event block -->
         <div class="row align-items-center event-block no-gutters margin-40px-bottom">

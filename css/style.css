@@ -68,7 +68,7 @@ p {
   color: #fff;
 }
 
-.bg-light {
+.bg-light-vatsala {
   background: #f4f4f4;
   color: #333;
 }
@@ -133,7 +133,7 @@ p {
   color: #f7c08a;
 }
 
-.navbar-brand {
+.navbar-brand-vatsala {
     margin-left: 20px;
     margin-top: 20px;
 }
@@ -147,6 +147,11 @@ p {
 .logo-title {
     position: relative;
     top: -10px;
+}
+
+.logo-title-2 {
+    position: relative;
+    top: 20px;
 }
 
 /* Showcase */
